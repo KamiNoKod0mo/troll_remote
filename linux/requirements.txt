@@ -1,6 +1,5 @@
 pygame
 argparse
-socket
 subprocess
 os
 colorama
