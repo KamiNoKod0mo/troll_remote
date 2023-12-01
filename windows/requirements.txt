@@ -1,8 +1,8 @@
 pygame
 argparse
 socket
-subprocess
 os
 colorama
-pulsectl
-alsaaudio
+pycaw
+ctypes
+comtypes
